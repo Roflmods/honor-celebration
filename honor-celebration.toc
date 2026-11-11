@@ -1,0 +1,10 @@
+## Interface: 16001, 11507
+## Title: Honor Celebration
+## Notes: Plays sound and confetti on every Honor Kill. No conditions, no guild checks.
+## Author: OLB Community
+## Version: 1.0.0
+## SavedVariables: HonorCelebrationDB
+
+Core.lua
+Celebration.lua
+Options.lua
